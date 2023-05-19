@@ -5,7 +5,7 @@ A modern-styled homepage for a fictional company built with React.js and CSS.
 Clone repository and install
 
 ```bash
-git clone https://github.com/KennethOnuorah/Website.git
+git clone https://github.com/aja512/Website.git
 cd Website
 npm i
 ```
