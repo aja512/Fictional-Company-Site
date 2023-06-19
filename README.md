@@ -15,4 +15,4 @@ Run dev
 npm run dev
 ```
 
-![Fictional Company Site]()
+![Fictional Company Site](https://github.com/aja512/Fictional-Company-Site/blob/master/fictional%20company%20website%20image.png?raw=true)
